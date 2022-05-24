@@ -10,8 +10,9 @@
 * {margin:0; padding:0;}
 html{font-size:16px;}
 body{ font-size:16px;
-      color:#515151;
-      font-family: 'Noto Sans KR', sans-serif; }
+      color:#333333;
+      font-family: 'Noto Sans KR', sans-serif;
+      box-sizing: border-box;}
 ul, ol, li{list-style-type:none}
 img, fieldset{border:none;vertical-align: middle;
               outline:0}
@@ -19,6 +20,6 @@ hr {clear:both;border:none}
 a {color:inherit;text-decoration:none;outline:0}
 table{border-collapse:collapse}
 input, textarea {color:inherit;font-size:inherit;
-                 font-family:inherit;
-                 vertical-align: middle;}
+       font-family:inherit;
+       vertical-align: middle;}
 button{outline:0}
